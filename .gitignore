@@ -1,0 +1,12 @@
+# Ignore binary files
+*.exe
+
+# Ignore data files
+*.dat
+
+# Ignore build files (optional)
+*.obj
+*.o
+
+# Ignore VS Code settings (optional)
+.vscode/
