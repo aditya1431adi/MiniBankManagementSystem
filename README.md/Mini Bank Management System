@@ -1,0 +1,32 @@
+ # 🏦 Mini Bank Management System
+
+A simple console-based **Bank Management System** written in **C++**.  
+This project demonstrates **Object-Oriented Programming (OOP)** concepts and **file handling** using binary files.
+
+---
+
+## 📌 Features
+
+- ✅ Create new bank accounts
+- ✅ Deposit money
+- ✅ Withdraw money with minimum balance check
+- ✅ Display account details
+- ✅ Modify account information
+- ✅ Close an account
+- ✅ Display all account holders
+- ✅ Data stored persistently using binary file (`account.dat`)
+
+---
+
+## ⚙️ Tech Stack
+
+- **Language:** C++
+- **Concepts:** Classes, Encapsulation, File I/O (Binary Files), Menu-driven console app
+
+---
+
+## 🚀 How To Run
+
+1. **Clone this repo**
+   ```bash
+   git clone https://github.com/your-username/mini-bank-management-system.git
